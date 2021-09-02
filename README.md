@@ -8,7 +8,7 @@
 
 - 输出内容包括缺少的证据和鬼类型的具体信息，点击“一键复制”按钮可以快速复制缺少的证据。
 
-- 为方便使用，文本数据采用了硬编码，只需要单个exe即可运行，exe文件可在Releases中下载。
+- 为方便使用，文本数据采用了硬编码，只需要单个exe文件即可运行，exe文件可在Releases中下载。
 
 # Phasmophobia Ghost Finding
 
@@ -20,4 +20,4 @@
 
 - The output includes missing evidence and specific information about the type of ghost. Click the "Copy" button to quickly copy the missing evidence.
 
-- For ease of use, the text data is hard-coded, only a single exe is required to run, and the exe file can be downloaded in Releases.
+- For ease of use, the text data is hard-coded, only a single exe file is required to run, and the exe file can be downloaded in Releases.
